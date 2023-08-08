@@ -239,7 +239,7 @@ footer a {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 8rem 14rem;
+    padding: 8rem 10rem;
   }
 
   #header h1 {
